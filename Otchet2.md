@@ -11,9 +11,9 @@
 ####
  В результате тестирования выявлены дефекты
  ####
- [В приложении KeyValidator не валидные ключ является валидным]   (https://github.com/Tatachel74/Task1.1/issues/2)
+ [В приложении KeyValidator не валидные ключ является валидным]    (https://github.com/Tatachel74/Task1.1/issues/2)
  ####
- [В приложении KeyValidator валидные ключи не валидные] (https://github.com/Tatachel74/Task1.1/issues/1)
+ [В приложении KeyValidator валидные ключи не валидные]  (https://github.com/Tatachel74/Task1.1/issues/1)
 # **Описание**
 ## Валидные ключи в списке являются не валидными 
 - 80b427f8-92cd-3aae-ba04-3927fbe17c6
